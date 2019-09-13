@@ -29,3 +29,21 @@ full list of docker CLI commands can be found at
 PostgresQL help can be found in their [excellent online
 manual](https://www.postgresql.org/docs/current/index.html)
 
+
+### Exercises
+
+Answer the following with the output of a single query:
+
+- How many races are listed in the database?
+- How many circuits are in the UK?
+- How many races have been held in circuits in the UK?
+- How many races have been held in circuits in the UK before Jan 1 2015?
+- What was the date of the first race in the database?
+- How many different 'logical races' are in the database (e.g. Dutch
+  Grand Prix, Monaco Grand Prix, etc)
+- What was the latest date of every race (i.e. the latest of each Grand Prix?)
+
+- What was the latest date of every race (i.e. the latest of each Grand Prix?) sorted by time since last run?
+- What is the lastest completed result in the databse?
+
+
