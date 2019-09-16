@@ -23,4 +23,4 @@ sleep 30
 
 docker exec f1db-container /home/import-db.sh
 
-psql --host localhost --username postgres -d f1db
+psql --host localhost --username postgres --dbname f1db
